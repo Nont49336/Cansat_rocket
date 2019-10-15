@@ -4,6 +4,6 @@ Using the processed data to notify the appropriation of  outdoor  activities  an
 to public: clothing, applying sunscreen wearing sunglasses, and etc.
 
 This folder contains three code (In this project use 2 arduino to operate)
-1. code for the first arduino
-2. code for the second arduino 
-3. Ground Station
+1. code for the first arduino (Arduino 1_M)
+2. code for the second arduino (arduino2_M)
+3. Ground Station (GS_M)
